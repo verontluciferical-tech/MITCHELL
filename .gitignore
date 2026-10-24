@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project Michelle: private files
+config/api_keys.json
+config/certs/
+config/whatsapp_web/
+**/token*.json
+**/client_secret*.json
+*credentials*.json
+.env
+.env.*
+memory/long_term.json
+memory/*.db
